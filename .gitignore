@@ -1,0 +1,10 @@
+# Flutter/Dart/Pub related
+build/
+
+# Android related
+*.jks
+
+# iOS/macOS related
+ios/Pods/
+macos/Pods/
+*.xcworkspace

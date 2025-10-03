@@ -1,0 +1,1 @@
+ D:\\FAN\ Project\\astronaci_test\\astronacci_app\\.dart_tool\\flutter_build\\364f9e86683e7a8e84433658ad0a3c46\\native_assets.json: 
